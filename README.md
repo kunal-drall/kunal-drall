@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on ArcPay.<br>👯 I'm looking to collaborate on Web3 projects<br>🤝 I'm looking for help with Golang<br>🌱 I'm currently learning Solidity<br>💭 Ask me about Frontend and Blockchain Dev<br>
+🔭 I'm currently working on Bastion Protocol.<br>👯 I'm looking to collaborate on Web3 projects<br>🤝 I'm looking for help with JavaScript/TypeScript<br>🌱 I'm currently learning Rust<br>💭 Ask me about Frontend and Blockchain Dev<br>
 
 
 ## 🌐 Socials:
